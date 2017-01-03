@@ -1,0 +1,12 @@
+label {
+  display: inline-block;
+  width: 5em;
+}
+
+fieldset div {
+  margin-bottom: 20px;
+}
+
+.ui-tooltip {
+  width: 250px;
+}
